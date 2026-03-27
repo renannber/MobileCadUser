@@ -36,10 +36,10 @@ public class UserAdapter extends RecyclerView.Adapter<UserAdapter.ViewHolder> {
 
     }
 
-    //Método para vincular os dados de um objeto de lista a uma linha espercifica da tela
+    //Método 2 para vincular os dados de um objeto de lista a uma linha espercifica da tela
 
     @Override
-    public void onBindViewHolder (@NotNull RecyclerView.ViewHolder holder, int position){
+    public void onBindViewHolder (@NotNull ViewHolder holder, int position){
         //Recupera os dados da lista de acordo com a posição que o android está desenhando agora
 
         String nome = listaUsuario.get(position); // pega a posição
