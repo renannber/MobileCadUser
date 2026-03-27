@@ -1,14 +1,14 @@
 Mobile Cadastro Usuário - 
 # Cadastro de Usuário 
  ## Descrição
-Projeto s desenvolvido no **Android Studio** com o objetivo de realizar o cadastro de usuários, utilizando nome, sobrenome e email
+Projeto desenvolvido no **Android Studio** com o objetivo de realizar o cadastro de usuários, utilizando nome, sobrenome e email
 
 ## Funcionalidades 
 
 * Cadastro de usuário
 * Entrada de dados (nome e email)
 * Exibição das informações na tela
-* * Atualização automática da lista ao retornar para a tela principal
+* Atualização automática da lista ao retornar para a tela principal
 
 ##  Tecnologias utilizadas
 
